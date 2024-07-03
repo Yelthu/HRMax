@@ -1,2 +1,2 @@
 # HRMax
-That's HRM (SaaS) application.
+That's an HRM (SaaS) MERN application.
