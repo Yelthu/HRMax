@@ -1,0 +1,33 @@
+# Dependency directories
+# Node Module
+hrmax-frontend/node_modules/
+hrmax-api/node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+bower_components/
+
+# Optional npm cache directory
+.npm
+.yarn/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Optional eslint cache
+.eslintcache
+
+# Attached files
+hrmax-api/public/uploads
+hrmax-api/public/routes/uploads
+hrmax-frontend/src/asset
+
+# Environment variables
+hrmax-api/.env
+
+# OS generated files
+.DS_Store
